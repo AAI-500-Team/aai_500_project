@@ -8,7 +8,7 @@
 * The Jupiter notebook file covers topics such as 
     * data exploration
     * data cleaning
-    * data visualization, 
+    * data visualization 
     * statistical analysis
     * machine learning
     
@@ -16,14 +16,14 @@
 
 ### Methods 
 
-* $Chi Sqaure$ test for hypothesis testing 
+* $Chi Square$ test for hypothesis testing 
 * $Logistic Regression$ predictive model
   * Trained on the original data
-  * Trained on the data with oversampling with $Synthetic Minority Oversampling TEchnique$
+  * Trained on the data with oversampling with $SMOTE$ (Synthetic Minority Oversampling Technique)
   * Trained on the data with undersampling 
 * Descision Tree classification model 
   * Trained on the original data
-  * Trained on the data with oversampling with $Synthetic Minority Oversampling TEchnique$
+  * Trained on the data with oversampling with $SMOTE$ (Synthetic Minority Oversampling Technique)
   * Trained on the data with undersampling 
 
 
